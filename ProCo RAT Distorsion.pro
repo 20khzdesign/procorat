@@ -1,4 +1,4 @@
-update=31/08/2017 7:36:57
+update=25/09/2017 16:53:10
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,6 +61,8 @@ LibName29=valves
 LibName30=w_connectors
 LibName31=C:/Program Files/KiCad/share/kicad/library/audio
 LibName32=jd_conn
+LibName33=pasivos
+LibName34=switches
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
